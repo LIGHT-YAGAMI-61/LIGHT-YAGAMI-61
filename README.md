@@ -35,54 +35,10 @@
 </p>
 
 ---
-
-## 💻 Tech Stack
-
-<p align="center">
-
-<!-- Languages -->
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="90"/> <!-- Java animated -->
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="90"/> <!-- C animated -->
-<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="90"/>
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="90"/>
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="90"/>
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="90"/>
-
-<!-- Backend -->
-<img src="https://user-images.githubusercontent.com/43292234/179796795-66b680c9-89db-4199-9fa7-336bc4aecd7b.gif" width="90"/>
-<img src="https://media.giphy.com/media/wMGYl0PHrdazsC5HGQ/giphy.gif" width="90"/>
-<img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="90"/>
-
-<!-- Frontend -->
-<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="90"/>
-<img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="100"/>
-<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="80"/>
-
-<!-- Tools -->
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"/>
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="90"/>
-<img src="https://media.giphy.com/media/Vc64hRodlWNoj3sMxu/giphy.gif" width="90"/>
-<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" width="80"/>
-<img src="https://cdn.worldvectorlogo.com/logos/stackblitz.svg" width="80"/>
-
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/harsh-yadav-b1b831383" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://instagram.com/harsh_ydv_3185" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="mailto:hy31853185@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+## 💻 Technology Stack
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="85"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="85"/><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="85"/><img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="85"/><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="85"/><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="85"/><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="85"/><img src="https://user-images.githubusercontent.com/43292234/179796795-66b680c9-89db-4199-9fa7-336bc4aecd7b.gif" width="85"/><img src="https://media.giphy.com/media/wMGYl0PHrdazsC5HGQ/giphy.gif" width="85"/><img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="85"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="85"/><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="85"/><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="85"/><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="85"/><img src="https://media.giphy.com/media/Vc64hRodlWNoj3sMxu/giphy.gif" width="85"/><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="85"/>
+<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" width="85"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="85"/>
 </p>
 
 ---
@@ -96,8 +52,21 @@
 ---
 
 <p align="center">
+<a href="https://www.linkedin.com/in/harsh-yadav-b1b831383">
+<img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/harsh_ydv_3185">
+<img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:hy31853185@gmail.com">
+<img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
 </p>
+
 
 ---
 
