@@ -19,14 +19,12 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LIGHT-YAGAMI-61&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LIGHT-YAGAMI-61&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=LIGHT-YAGAMI-61&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LIGHT-YAGAMI-61&theme=tokyo-night&hide_border=true" width="100%"/>
-  <img width="48%" src="https://streak-stats.demolab.com/?user=LIGHT-YAGAMI-61&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🧠 LeetCode Stats
