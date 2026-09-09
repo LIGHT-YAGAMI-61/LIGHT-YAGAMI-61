@@ -24,6 +24,7 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LIGHT-YAGAMI-61&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img width="48%" src="https://streak-stats.demolab.com/?user=LIGHT-YAGAMI-61&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
