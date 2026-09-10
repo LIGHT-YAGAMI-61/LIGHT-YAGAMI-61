@@ -18,7 +18,7 @@
 ## 📊 Contribution & Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LIGHT-YAGAMI-61&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="48%" src="./profile/stats.svg" />
   <img width="48%" src="./profile/streak.svg" />
 </p>
 
