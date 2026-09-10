@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LIGHT-YAGAMI-61/LIGHT-YAGAMI-61/output/activity-graph.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/LIGHT-YAGAMI-61/LIGHT-YAGAMI-61/activity-graph-output/activity-graph.svg" width="100%"/>
 </p>
 ---
 
